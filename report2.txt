@@ -1,0 +1,4 @@
+Plot: 'C:\Users\casper\Desktop\Final Project\FinalProject-F.Cu.svg' OK.
+Plot: 'C:\Users\casper\Desktop\Final Project\FinalProject-B.Cu.svg' OK.
+Plot: 'C:\Users\casper\Desktop\Final Project\FinalProject-B.SilkS.svg' OK.
+Plot: 'C:\Users\casper\Desktop\Final Project\FinalProject-F.SilkS.svg' OK.

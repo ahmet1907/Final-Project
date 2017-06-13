@@ -1,0 +1,948 @@
+## Footprint report - date 06/13/17 03:14:57
+## Created by Pcbnew version kicad 4.0.5
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 50.009999 25.879999
+lower_right_corner 146.860000 97.230001
+$EndBOARD
+
+$MODULE "C10"
+reference "C10"
+value "220uF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 74.535000 54.610000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE "R12"
+reference "R12"
+value "220"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 125.095000 60.325000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R12
+
+$MODULE "C1"
+reference "C1"
+value "2.2uF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 125.730000 92.710000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$MODULE "C2"
+reference "C2"
+value "0.47uF"
+footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
+attribut none
+position 66.675000 64.990000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 18.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "C3"
+reference "C3"
+value "33uF"
+footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
+attribut none
+position 119.600000 86.360000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 18.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C4"
+reference "C4"
+value "0.01uF"
+footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal"
+attribut none
+position 114.520000 76.835000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 18.000000  0.000000  size  2.400000  2.400000  orientation 0.00
+drill  1.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C5"
+reference "C5"
+value "1uF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 65.010000 91.440000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C6"
+reference "C6"
+value "220uF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 85.725000 59.930000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "C7"
+reference "C7"
+value "270pF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 86.755000 48.260000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C8"
+reference "C8"
+value "2200uF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 127.395000 48.260000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C9"
+reference "C9"
+value "0.1mF"
+footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+attribut none
+position 125.730000 55.245000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 15.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE "D1"
+reference "D1"
+value "D1N4004"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 133.985000 83.820000  orientation 90.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "D2"
+reference "D2"
+value "D1N4004"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 142.875000 71.120000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D3"
+reference "D3"
+value "D1N4004"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 131.445000 48.260000  orientation 0.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "D4"
+reference "D4"
+value "D1N750"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 143.510000 90.170000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D5"
+reference "D5"
+value "D1N750"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 142.240000 60.960000  orientation 180.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "D6"
+reference "D6"
+value "D1N4004"
+footprint "Diodes_THT:D_5W_P12.70mm_Horizontal"
+attribut none
+position 127.635000 73.025000  orientation 270.00
+layer front
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position 12.700000  0.000000  size  2.800000  2.800000  orientation 0.00
+drill  1.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "Q3"
+reference "Q3"
+value "D400"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow"
+attribut none
+position 115.570000 57.785000  orientation 270.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  1.270000 -1.270000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q3
+
+$MODULE "Q4"
+reference "Q4"
+value "A683"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow"
+attribut none
+position 109.220000 66.675000  orientation 180.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  1.270000 -1.270000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q4
+
+$MODULE "Q5"
+reference "Q5"
+value "TIP3055"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow"
+attribut none
+position 107.950000 57.785000  orientation 270.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  1.270000 -1.270000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q5
+
+$MODULE "R1"
+reference "R1"
+value "12K"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 122.555000 74.930000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "R2"
+reference "R2"
+value "39K"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 118.110000 64.135000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R3"
+reference "R3"
+value "56K"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 80.010000 79.375000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "R4"
+reference "R4"
+value "100K"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 80.010000 59.690000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R5"
+reference "R5"
+value "100"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 83.185000 79.375000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R6"
+reference "R6"
+value "3.3K"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 92.075000 67.945000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R7"
+reference "R7"
+value "560"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 113.030000 64.135000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE "R8"
+reference "R8"
+value "1"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 136.525000 66.675000  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R8
+
+$MODULE "R9"
+reference "R9"
+value "100"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 103.505000 66.040000  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R9
+
+$MODULE "R10"
+reference "R10"
+value "5K6"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 94.615000 53.975000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE "R11"
+reference "R11"
+value "220"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 121.920000 60.960000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R11
+
+$MODULE "R13"
+reference "R13"
+value "220"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 103.505000 70.485000  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R13
+
+$MODULE "R14"
+reference "R14"
+value "0.33"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 106.045000 53.975000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R14
+
+$MODULE "R15"
+reference "R15"
+value "0.33"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 118.110000 74.930000  orientation 270.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R15
+
+$MODULE "R16"
+reference "R16"
+value "10"
+footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
+attribut none
+position 95.885000 90.805000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.400000  1.400000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R16
+
+$MODULE "S1"
+reference "S1"
+value "8K"
+footprint "Varistors:RV_Disc_D12_W3.9_P7.5"
+attribut none
+position 84.575000 91.945000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  7.500000  1.400000  size  1.800000  1.800000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S1
+
+$MODULE "T1"
+reference "T1"
+value "A733"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow"
+attribut none
+position 92.710000 59.055000  orientation 270.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  1.270000 -1.270000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation -270.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  T1
+
+$MODULE "T2"
+reference "T2"
+value "D313"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow"
+attribut none
+position 102.235000 59.055000  orientation 180.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  1.270000 -1.270000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  2.540000  0.000000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 90.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  T2
+
+$MODULE "P1"
+reference "P1"
+value "Entrada"
+footprint "Wire_Pads:SolderWirePad_3x_1mmDrill"
+attribut none
+position 102.235000 92.075000  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position -3.175000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  3.175000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  P1
+
+$MODULE "Q6"
+reference "Q6"
+value "TIP3055"
+footprint "TO_SOT_Packages_THT:TO-92_Molded_Wide"
+attribut none
+position 87.630000 86.995000  orientation 0.00
+layer front
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -2.540000  size  1.520000  1.520000  orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.520000  1.520000  orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  1.520000  1.520000  orientation 90.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Q6
+
+$MODULE "VR1"
+reference "VR1"
+value "100K"
+footprint "Potentiometers:Potentiometer_Alps_RK097_Single_Vertical"
+attribut none
+position 70.485000 72.470000  orientation 180.00
+layer front
+$PAD "3"
+Shape Circle Layer both
+position  0.000000 -5.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000 -2.500000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  VR1
+
+$MODULE "VR2"
+reference "VR2"
+value "10"
+footprint "Potentiometers:Potentiometer_Alps_RK097_Single_Vertical"
+attribut none
+position 105.965000 46.355000  orientation 90.00
+layer front
+$PAD "3"
+Shape Circle Layer both
+position  0.000000 -5.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  0.000000 -2.500000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.800000  1.800000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  VR2
+
+$EndDESCRIPTION

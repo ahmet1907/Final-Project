@@ -1,0 +1,352 @@
+Info: Reading netlist file "C:\Users\casper\Desktop\Final Project\FinalProject.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/593D5989:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C1:/593D5989" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C1:/593D5989" pin "1" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "C1:/593D5989" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C2:/593D5FCB:Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Adding new component "C2:/593D5FCB" footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Changing component "C2:/593D5FCB" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "C2:/593D5FCB" pin "2" net name from "" to "Net-(C2-Pad2)".
+
+Info: Checking netlist component footprint "C3:/593D64A2:Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Adding new component "C3:/593D64A2" footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Changing component "C3:/593D64A2" pin "1" net name from "" to "+63V".
+
+Changing component "C3:/593D64A2" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C4:/593D64F1:Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Adding new component "C4:/593D64F1" footprint "Capacitors_THT:CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal".
+
+Changing component "C4:/593D64F1" pin "1" net name from "" to "+63V".
+
+Changing component "C4:/593D64F1" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C5:/593D7B1E:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C5:/593D7B1E" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C5:/593D7B1E" pin "1" net name from "" to "Net-(C5-Pad1)".
+
+Changing component "C5:/593D7B1E" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "C6:/593D8DC4:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C6:/593D8DC4" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C6:/593D8DC4" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "C6:/593D8DC4" pin "2" net name from "" to "Net-(C6-Pad2)".
+
+Info: Checking netlist component footprint "C7:/593DC5EA:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C7:/593DC5EA" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C7:/593DC5EA" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Changing component "C7:/593DC5EA" pin "2" net name from "" to "Net-(C7-Pad2)".
+
+Info: Checking netlist component footprint "C8:/593EC7EF:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C8:/593EC7EF" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C8:/593EC7EF" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "C8:/593EC7EF" pin "2" net name from "" to "Net-(C10-Pad2)".
+
+Info: Checking netlist component footprint "C9:/593ECDCC:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C9:/593ECDCC" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C9:/593ECDCC" pin "1" net name from "" to "Net-(C10-Pad2)".
+
+Changing component "C9:/593ECDCC" pin "2" net name from "" to "Net-(C9-Pad2)".
+
+Info: Checking netlist component footprint "C10:/593ED385:Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Adding new component "C10:/593ED385" footprint "Capacitors_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal".
+
+Changing component "C10:/593ED385" pin "1" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "C10:/593ED385" pin "2" net name from "" to "Net-(C10-Pad2)".
+
+Info: Checking netlist component footprint "D1:/593DE72C:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D1:/593DE72C" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D1:/593DE72C" pin "1" net name from "" to "Net-(D1-Pad1)".
+
+Changing component "D1:/593DE72C" pin "2" net name from "" to "Net-(D1-Pad2)".
+
+Info: Checking netlist component footprint "D2:/593DED90:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D2:/593DED90" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D2:/593DED90" pin "1" net name from "" to "Net-(D2-Pad1)".
+
+Changing component "D2:/593DED90" pin "2" net name from "" to "Net-(D1-Pad1)".
+
+Info: Checking netlist component footprint "D3:/593DEDE7:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D3:/593DEDE7" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D3:/593DEDE7" pin "1" net name from "" to "Net-(D3-Pad1)".
+
+Changing component "D3:/593DEDE7" pin "2" net name from "" to "Net-(D2-Pad1)".
+
+Info: Checking netlist component footprint "D4:/593E1F2F:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D4:/593E1F2F" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D4:/593E1F2F" pin "1" net name from "" to "Net-(D4-Pad1)".
+
+Changing component "D4:/593E1F2F" pin "2" net name from "" to "Net-(D2-Pad1)".
+
+Info: Checking netlist component footprint "D5:/593E24EA:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D5:/593E24EA" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D5:/593E24EA" pin "1" net name from "" to "Net-(D4-Pad1)".
+
+Changing component "D5:/593E24EA" pin "2" net name from "" to "Net-(C10-Pad2)".
+
+Info: Checking netlist component footprint "D6:/593EB26A:Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Adding new component "D6:/593EB26A" footprint "Diodes_THT:D_5W_P12.70mm_Horizontal".
+
+Changing component "D6:/593EB26A" pin "1" net name from "" to "Net-(D6-Pad1)".
+
+Changing component "D6:/593EB26A" pin "2" net name from "" to "Net-(D6-Pad2)".
+
+Info: Checking netlist component footprint "P1:/593D8810:Varistors:RV_Disc_D12_W3.9_P7.5".
+
+Adding new component "P1:/593D8810" footprint "Varistors:RV_Disc_D12_W3.9_P7.5".
+
+Changing component "P1:/593D8810" pin "1" net name from "" to "GND".
+
+Changing component "P1:/593D8810" pin "2" net name from "" to "Net-(C2-Pad2)".
+
+Info: Checking netlist component footprint "Q3:/593E35B1:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "Q3:/593E35B1" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "Q3:/593E35B1" pin "2" net name from "" to "Net-(D1-Pad2)".
+
+Changing component "Q3:/593E35B1" pin "3" net name from "" to "Net-(Q3-Pad3)".
+
+Changing component "Q3:/593E35B1" pin "1" net name from "" to "+63V".
+
+Info: Checking netlist component footprint "Q4:/593E4ECB:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "Q4:/593E4ECB" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "Q4:/593E4ECB" pin "2" net name from "" to "Net-(D6-Pad1)".
+
+Changing component "Q4:/593E4ECB" pin "3" net name from "" to "Net-(Q4-Pad3)".
+
+Changing component "Q4:/593E4ECB" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Info: Checking netlist component footprint "Q5:/593E8256:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "Q5:/593E8256" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "Q5:/593E8256" pin "2" net name from "" to "Net-(Q3-Pad3)".
+
+Changing component "Q5:/593E8256" pin "3" net name from "" to "Net-(Q5-Pad3)".
+
+Changing component "Q5:/593E8256" pin "1" net name from "" to "+63V".
+
+Info: Checking netlist component footprint "Q6:/593E83BB:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "Q6:/593E83BB" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "Q6:/593E83BB" pin "2" net name from "" to "Net-(Q4-Pad3)".
+
+Changing component "Q6:/593E83BB" pin "3" net name from "" to "GND".
+
+Changing component "Q6:/593E83BB" pin "1" net name from "" to "Net-(D6-Pad2)".
+
+Info: Checking netlist component footprint "R1:/593C5FBE:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R1:/593C5FBE" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R1:/593C5FBE" pin "1" net name from "" to "Net-(C1-Pad1)".
+
+Changing component "R1:/593C5FBE" pin "2" net name from "" to "Net-(C5-Pad1)".
+
+Info: Checking netlist component footprint "R2:/593C84B3:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R2:/593C84B3" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R2:/593C84B3" pin "1" net name from "" to "+63V".
+
+Changing component "R2:/593C84B3" pin "2" net name from "" to "Net-(C1-Pad1)".
+
+Info: Checking netlist component footprint "R3:/593C8466:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R3:/593C8466" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R3:/593C8466" pin "1" net name from "" to "Net-(C5-Pad1)".
+
+Changing component "R3:/593C8466" pin "2" net name from "" to "Net-(R3-Pad2)".
+
+Info: Checking netlist component footprint "R4:/593C84F2:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R4:/593C84F2" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R4:/593C84F2" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "R4:/593C84F2" pin "2" net name from "" to "Net-(C6-Pad2)".
+
+Info: Checking netlist component footprint "R5:/593C8515:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R5:/593C8515" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R5:/593C8515" pin "1" net name from "" to "Net-(C6-Pad2)".
+
+Changing component "R5:/593C8515" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R6:/593D7944:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R6:/593D7944" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R6:/593D7944" pin "1" net name from "" to "Net-(C7-Pad2)".
+
+Changing component "R6:/593D7944" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R7:/593DA358:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R7:/593DA358" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R7:/593DA358" pin "1" net name from "" to "+63V".
+
+Changing component "R7:/593DA358" pin "2" net name from "" to "Net-(C8-Pad1)".
+
+Info: Checking netlist component footprint "R8:/593DA39D:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R8:/593DA39D" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R8:/593DA39D" pin "1" net name from "" to "Net-(C8-Pad1)".
+
+Changing component "R8:/593DA39D" pin "2" net name from "" to "Net-(D1-Pad2)".
+
+Info: Checking netlist component footprint "R9:/593DAA0B:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R9:/593DAA0B" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R9:/593DAA0B" pin "1" net name from "" to "Net-(R9-Pad1)".
+
+Changing component "R9:/593DAA0B" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R10:/593DB5EE:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R10:/593DB5EE" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R10:/593DB5EE" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Changing component "R10:/593DB5EE" pin "2" net name from "" to "Net-(C10-Pad2)".
+
+Info: Checking netlist component footprint "R11:/593E307D:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R11:/593E307D" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R11:/593E307D" pin "1" net name from "" to "Net-(Q3-Pad3)".
+
+Changing component "R11:/593E307D" pin "2" net name from "" to "Net-(C10-Pad2)".
+
+Info: Checking netlist component footprint "R12:/593E3236:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R12:/593E3236" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R12:/593E3236" pin "1" net name from "" to "Net-(C10-Pad2)".
+
+Changing component "R12:/593E3236" pin "2" net name from "" to "Net-(D6-Pad1)".
+
+Info: Checking netlist component footprint "R13:/593E6F76:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R13:/593E6F76" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R13:/593E6F76" pin "1" net name from "" to "Net-(Q4-Pad3)".
+
+Changing component "R13:/593E6F76" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "R14:/593E964C:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R14:/593E964C" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R14:/593E964C" pin "1" net name from "" to "Net-(Q5-Pad3)".
+
+Changing component "R14:/593E964C" pin "2" net name from "" to "Net-(R14-Pad2)".
+
+Info: Checking netlist component footprint "R15:/593E96AB:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R15:/593E96AB" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R15:/593E96AB" pin "1" net name from "" to "Net-(R14-Pad2)".
+
+Changing component "R15:/593E96AB" pin "2" net name from "" to "Net-(D6-Pad2)".
+
+Info: Checking netlist component footprint "R16:/593EEA7C:Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Adding new component "R16:/593EEA7C" footprint "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal".
+
+Changing component "R16:/593EEA7C" pin "1" net name from "" to "Net-(C9-Pad2)".
+
+Changing component "R16:/593EEA7C" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "S1:/593EFFDA:Varistors:RV_Disc_D12_W3.9_P7.5".
+
+Adding new component "S1:/593EFFDA" footprint "Varistors:RV_Disc_D12_W3.9_P7.5".
+
+Changing component "S1:/593EFFDA" pin "1" net name from "" to "Net-(C10-Pad1)".
+
+Changing component "S1:/593EFFDA" pin "2" net name from "" to "GND".
+
+Info: Checking netlist component footprint "T1:/593C7F62:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "T1:/593C7F62" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "T1:/593C7F62" pin "2" net name from "" to "Net-(C7-Pad2)".
+
+Changing component "T1:/593C7F62" pin "3" net name from "" to "Net-(C2-Pad1)".
+
+Changing component "T1:/593C7F62" pin "1" net name from "" to "Net-(C6-Pad1)".
+
+Info: Checking netlist component footprint "T2:/593DC169:TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Adding new component "T2:/593DC169" footprint "TO_SOT_Packages_THT:TO-92_Molded_Narrow".
+
+Changing component "T2:/593DC169" pin "2" net name from "" to "Net-(C7-Pad2)".
+
+Changing component "T2:/593DC169" pin "3" net name from "" to "Net-(R9-Pad1)".
+
+Changing component "T2:/593DC169" pin "1" net name from "" to "Net-(C7-Pad1)".
+
+Info: Checking netlist component footprint "VR1:/593C894C:Potentiometers:Potentiometer_Piher_T16H_Single_Vertical".
+
+Adding new component "VR1:/593C894C" footprint "Potentiometers:Potentiometer_Piher_T16H_Single_Vertical".
+
+Changing component "VR1:/593C894C" pin "2" net name from "" to "Net-(R3-Pad2)".
+
+Changing component "VR1:/593C894C" pin "1" net name from "" to "Net-(C2-Pad1)".
+
+Info: Checking netlist component footprint "VR2:/593DCD5B:Potentiometers:Potentiometer_Piher_T16H_Single_Vertical".
+
+Adding new component "VR2:/593DCD5B" footprint "Potentiometers:Potentiometer_Piher_T16H_Single_Vertical".
+
+Changing component "VR2:/593DCD5B" pin "2" net name from "" to "Net-(D3-Pad1)".
+
+Changing component "VR2:/593DCD5B" pin "1" net name from "" to "Net-(C7-Pad1)".
+
